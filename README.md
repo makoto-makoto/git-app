@@ -3,7 +3,7 @@ DB設計
 ## usersテーブル
 |columu|Type|Options|
 |------|----|-------|
-|namw|string|index: true, null: false. unigue: true
+|name|string|index: true, null: false. unigue: true
 
 ### Association
 - has_many :groups, through: :members
