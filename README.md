@@ -3,7 +3,7 @@ DB設計
 ## usersテーブル
 |columu|Type|Options|
 |------|----|-------|
-|namw|string|index: true, null: false. unigue: true
+|namw|string|index: true, null: false. 
 |email|string|null: false
 
 ### Association
