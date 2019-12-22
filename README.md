@@ -1,7 +1,7 @@
 DB設計
 
 ## usersテーブル
-|columu|Typo|Options|
+|columu|Type|Options|
 |------|----|-------|
 |namw|string|index: true, null: false. unigue: true
 
