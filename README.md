@@ -14,7 +14,7 @@ DB設計
 ## groupsテーブル
 |columu|Type|Options|
 |------|----|-------|
-|name|string|null: false, unlque: true
+|name|string|null: false, unique: true
 
 ### Association
 - has_many :users, through: :members
