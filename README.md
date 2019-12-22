@@ -7,7 +7,7 @@ DB設計
 |email|string|null: false
 
 ### Association
-- bss_many :groups, through: :members
+- bas_many :groups, through: :members
 - has_many :messages
 - has_manu :members
 
