@@ -31,7 +31,7 @@ DB設計
 
 ### Assoviation
 - belongs_to :group
-- belpngs_to :user
+- belongs_to :user
 
 ## membersテーブル
 |columu|Type|Options|
