@@ -6,7 +6,7 @@ DB設計
 |namw|string|index: true, null: false. unigue: true
 
 ### Association
-- bas_many :groups, through: :members
+- has_many :groups, through: :members
 - has_many :messages
 - has_manu :members
 
