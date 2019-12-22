@@ -3,7 +3,7 @@ DB設計
 ## gsersテーブル
 |columu|Type|Options|
 |------|----|-------|
-|namw|string|index: true, true, null:false. unigue: true
+|namw|string|index: true, null:false. unigue: true
 |email|string|null: false
 
 ### Association
