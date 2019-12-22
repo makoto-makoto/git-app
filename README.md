@@ -27,7 +27,7 @@ DB設計
 |body|string|
 |image|string|
 |user|references|null: false, foreign_key; true
-|group_id|references|null: faise, foreign_key: true
+|group|references|null: faise, foreign_key: true
 
 ### Assoviation
 - belongs_to :group
