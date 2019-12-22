@@ -41,6 +41,6 @@ DB設計
 
 ### Association
 - belongs_to :group
-- be;ongs_to :user
+- belongs_to :user
 
 
