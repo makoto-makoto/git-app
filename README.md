@@ -4,7 +4,7 @@ DB設計
 |columu|Type|Options|
 |------|----|-------|
 |namw|string|index: true, null: false. unigue: true
-|email|string|null: false
+
 
 ### Association
 - bas_many :groups, through: :members
