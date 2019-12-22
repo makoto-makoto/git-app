@@ -36,8 +36,8 @@ DB設計
 ## membersテーブル
 |columu|Type|Options|
 |------|----|-------|
-|user_id|integer|null: faise, foreign_key: true
-|group_id|integer|null: false, foreign_key: true
+|user_id|references|null: faise, foreign_key: true
+|group_id|references|null: false, foreign_key: true
 
 ### Association
 - belongs_to :group
