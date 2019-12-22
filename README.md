@@ -8,7 +8,7 @@ DB設計
 ### Association
 - has_many :groups, through: :members
 - has_many :messages
-- has_manu :members
+- has_many :members
 
 ## groupsテーブル
 |columu|Type|Options|
