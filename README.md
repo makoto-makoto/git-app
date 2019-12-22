@@ -1,6 +1,6 @@
 DB設計
 
-## gsersテーブル
+## usersテーブル
 |columu|Type|Options|
 |------|----|-------|
 |namw|string|index: true, null:false. unigue: true
